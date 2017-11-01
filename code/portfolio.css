@@ -14,8 +14,9 @@
 
 
 /* Portfolio Item CSS */
-
-
+.box {
+    background-color: rgb(104, 83, 239);
+}
 
 /* Footer CSS */
 
